@@ -2,7 +2,6 @@ package com.greenfoxacademy.demo.services;
 
 import com.greenfoxacademy.demo.models.ToDo;
 import com.greenfoxacademy.demo.repositories.TodoRepository;
-import com.sun.tools.javac.comp.Todo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

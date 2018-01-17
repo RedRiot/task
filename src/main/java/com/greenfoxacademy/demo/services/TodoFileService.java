@@ -1,9 +1,6 @@
 package com.greenfoxacademy.demo.services;
 
 import com.greenfoxacademy.demo.models.ToDo;
-import com.sun.tools.javac.comp.Todo;
-
-import java.util.ArrayList;
 import java.util.List;
 
 public class TodoFileService implements TodoService {
